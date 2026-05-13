@@ -1,5 +1,5 @@
 "use client";
-import Navbar from '@/components/Navbar';
+import Navbar from '@/Components/Navbar';
 import { useParams } from 'next/navigation';
 import Link from 'next/link';
 

@@ -1,6 +1,6 @@
 // src/app/page.js
-import Navbar from '@/components/Navbar';
-import LessonCard from '@/components/LessonCard';
+import Navbar from '@/Components/Navbar';
+import LessonCard from '@/Components/LessonCard';
 import Link from 'next/link';
 
 export default function Home() {
