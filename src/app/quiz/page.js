@@ -1,6 +1,6 @@
 "use client";
 import { useState } from 'react';
-import Navbar from '@/components/Navbar';
+import Navbar from '@/Components/Navbar';
 import Link from 'next/link';
 
 export default function QuizPage() {
